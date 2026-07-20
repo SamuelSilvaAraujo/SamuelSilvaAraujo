@@ -48,7 +48,6 @@ Um sistema completo desenvolvido para centralizar o fluxo de atendimento, gestã
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaAraujo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelSilvaAraujo&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
